@@ -1,0 +1,84 @@
+
+/* public/global.css */
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+
+h1{
+    color: #000000;
+    font-size: 45px;
+}
+
+ul li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+a {
+   color: #ffffff;
+   text-decoration: none;
+}
+
+a:hover{
+    color: aqua;
+}
+  
+a:hover {
+    text-decoration: underline;
+    color: #e7e2e2;
+    justify-content: space-between;
+}
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    padding: 0 20px;
+  }
+
+  h2 {
+    color: #000000;
+    text-align: justify;
+    padding-left: 30px;
+    justify-content: space-between;
+  }
+
+  
+  p{
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: #000000;
+  }
+
+header {
+    text-align: center;
+    background-color:#823b3b;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+h3{
+    color: #fff;
+    font-size: medium;
+}
+
+footer {
+    background-color:#823b3b;
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+}
+
+div{
+    background-color: #e7e2e2;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.li{
+    background-color: #e7e2e2;
+}
